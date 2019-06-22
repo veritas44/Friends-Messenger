@@ -1,3 +1,3 @@
-# Friends-Messenger
-Friends Messenger
+# Friends-Social
+Friends-Social
 Native webview
